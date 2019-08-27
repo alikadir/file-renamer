@@ -1,0 +1,7 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\AKBRename\bin\Debug\AKBRename.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\AKBRename\bin\Debug\AKBRename.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\AKBRename\obj\x86\Debug\AKBRename.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\AKBRename\obj\x86\Debug\AKBRename.RenameForm.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\AKBRename\obj\x86\Debug\AKBRename.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\AKBRename\obj\x86\Debug\AKBRename.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\AKBRename\obj\x86\Debug\AKBRename.pdb
